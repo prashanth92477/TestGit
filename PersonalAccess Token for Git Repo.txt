@@ -1,0 +1,5 @@
+PersonalAccess for the TestGit Repository in GitHub
+--
+https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to
+--
+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
